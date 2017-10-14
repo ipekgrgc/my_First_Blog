@@ -25,7 +25,7 @@ SECRET_KEY = 'v8ax=^6v9!x4-9(j0e^wr9&6mkptwfcv@fhu@xlad&z1=lk&)e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ipekgrgc.pythonanywhere.com']
 
 
 # Application definition
